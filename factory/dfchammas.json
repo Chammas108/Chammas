@@ -1,0 +1,9 @@
+{
+	"name": "dfchammas",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f3ff1a6c-35dd-4270-8c97-83b70fc0aa4a",
+		"tenantId": "bb71d943-080d-4302-b491-1f5adad5706a"
+	}
+}
